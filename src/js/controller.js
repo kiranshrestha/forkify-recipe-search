@@ -5,7 +5,7 @@ import resultsView from './views/resultsView';
 import paginationView from './views/paginationView';
 import bookmarkView from './views/bookmarkView';
 import addRecipeView from './views/addRecipeView';
-import { MODAL_CLOSE_SEC } from '../../../final/src/js/config';
+import { MODEL_CLOSE_SEC } from './config';
 
 // polyfilling others.
 import 'core-js/stable';
